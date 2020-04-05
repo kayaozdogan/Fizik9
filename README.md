@@ -54,8 +54,8 @@
     - Rest the cake at room temperature and pour the chocolate sauce. Serve it with slices.
     
 # Calories and Grams:
-**Total: 1600 grams - 5700kcal**
-**100 Grams of cake equals 356kcal**
+- **Total: 1600 grams - 5700kcal**
+- **100 Grams of cake equals 356kcal**
 
 ### Vücut Kitle İndeksi
 
