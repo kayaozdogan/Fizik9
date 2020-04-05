@@ -55,7 +55,7 @@
     
 ## Calories and Grams:
 - **Total: 1600 grams - 5700kcal**
-- **100 Grams of cake equals 356kcal**
+- **100 Grams of cake equals to 356kcal**
 
 # Vücut Kitle İndeksi
 
