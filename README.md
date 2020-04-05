@@ -57,6 +57,8 @@
 - **Total: 1600 grams - 5700kcal**
 - **100 Grams of cake equals to 356kcal**
 
+![Baton Cake](https://cdn.yemek.com/mncrop/940/625/uploads/2017/12/kolay-baton-kek-tarifi.jpg)
+
 # Vücut Kitle İndeksi
 
 - Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
