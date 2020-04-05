@@ -57,7 +57,7 @@
 **Total: 1600 grams - 5700kcal**
 **100 Grams of cake equals 356kcal**
 
-### Vücut Kitle Endeksi
+### Vücut Kitle İndeksi
 
 - Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
 - Babam: 176cm   65kg   VKİ: 21 kg / metrekare (Sağlıklı)
