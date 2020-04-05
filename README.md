@@ -58,7 +58,7 @@
 
 ## Vücut Kitle Endeksi
 
-Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
-Babam: 176cm   65kg   VKİ: 21 kg / metrekare (Sağlıklı)
-Abim:  175cm   62kg   VKİ: 20,2 kg / metrekare (Sağlıklı)
-Ben:   178cm   63kg   VKİ: 19,9 kg / metrekare (Sağlıklı)
+- Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
+- Babam: 176cm   65kg   VKİ: 21 kg / metrekare (Sağlıklı)
+- Abim:  175cm   62kg   VKİ: 20,2 kg / metrekare (Sağlıklı)
+- Ben:   178cm   63kg   VKİ: 19,9 kg / metrekare (Sağlıklı)
