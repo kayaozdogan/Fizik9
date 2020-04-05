@@ -1,2 +1,2 @@
 # Fizik 9
-*asd*
+- asd
