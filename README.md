@@ -22,7 +22,7 @@
  
     - Kabı yağlayın ve karışımı içine dökün.
  
-    - Karışıma kakao ekleyin ve karıştırın. Ardından kalıba aktarın. 165 derecede önceden ısıtılmış fırında yaklaşık  35- 40           dakika kadar pişirin.
+    - Karışıma kakao ekleyin ve karıştırın. Ardından kalıba aktarın. 165 derecede önceden ısıtılmış fırında yaklaşık  35- 40 dakika         kadar pişirin.
 
     - Çıkarıp oda sıcaklığında dinlendirdikten sonra üzerine çikolata sosunu gezdirin. Dilimleyerle servis edin.
 
