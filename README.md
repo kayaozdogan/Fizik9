@@ -1,5 +1,5 @@
 # Fizik 9
-##Baton Kek Tarifi
+## Baton Kek Tarifi
 - 2 adet yumurta
 - 2,5 çay bardağı sıvı yağ
 - 2 çay bardağı süt
@@ -20,7 +20,7 @@
 
     - Harcın bir kısmını yağlanmış baton kek kalıbının içerisine aktarın.
 
-    - Geriye kalan kısmını kakao ekleyin, güzelce karıştırın. Ardından kalıba aktarın. 165 derecede önceden ısıtılmış fırında yaklaşık 35-     40 dakika kadar yavaş yavaş pişirin.
+    - Geriye kalan kısmını kakao ekleyin, güzelce karıştırın. Ardından kalıba aktarın. 165 derecede önceden ısıtılmış fırında yaklaşık        35- 40 dakika kadar yavaş yavaş pişirin.
 
     - Çıkarıp oda sıcaklığında dinlendirdikten sonra üzerine çikolata sosunu gezdirin. Dilimleyerek servis edin.
-##Baton Cake Recipe
+## Baton Cake Recipe
