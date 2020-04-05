@@ -1,7 +1,7 @@
 # Fizik 9
-### Baton Kek Tarifi
+# Baton Kek Tarifi
 
-# Malzemeler:
+## Malzemeler:
 - 2 adet yumurta
 - 2,5 çay bardağı sıvı yağ
 - 2 çay bardağı süt
@@ -28,7 +28,7 @@
 
 ## Baton Cake Recipe
 
-# Ingredients:
+## Ingredients:
 - 2 eggs
 - 2,5 teacups of oil
 - 2 teacups of milk
