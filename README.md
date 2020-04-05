@@ -22,8 +22,8 @@
  
     - Kabı yağlayın ve karışımı içine dökün.
  
-    - Karışıma kakao ekleyin ve karıştırın. Ardından kalıba aktarın. 165 derecede önceden ısıtılmış fırında yaklaşık  35- 40 dakika         kadar pişirin.
-
+    - Karışıma kakao ekleyin ve karıştırın. Sonra kalıba dökün. 165 derecede önceden ısıtılmış fırında yaklaşık  35- 40 dakika pişirin.
+    
     - Çıkarıp oda sıcaklığında dinlendirdikten sonra üzerine çikolata sosunu gezdirin. Dilimleyerle servis edin.
 
 ## Baton Cake Recipe
@@ -48,6 +48,17 @@
     
     - Pour oil into the mold and pour the mixture into it.
     
-    - Add cocoa into the mixture and mix it. After that, pour it into the mold. Then bake it in the 165°C preheated oven for 35-40           minutes.
+    - Add cocoa into the mixture and mix it. Then, pour it into the mold. Then bake it in the 165°C preheated oven for 35-40 minutes.
     
     - Rest the cake at room temperature and pour the chocolate sauce. Serve it with slices.
+    
+# Calories and Grams:
+**Total: 1600 grams - 5700kcal**
+**100 Grams of cake equals 356kcal**
+
+## Vücut Kitle Endeksi
+
+Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
+Babam: 176cm   65kg   VKİ: 21 kg / metrekare (Sağlıklı)
+Abim:  175cm   62kg   VKİ: 20,2 kg / metrekare (Sağlıklı)
+Ben:   178cm   63kg   VKİ: 19,9 kg / metrekare (Sağlıklı)
