@@ -1,5 +1,5 @@
 # Fizik 9
-## Baton Kek Tarifi
+### Baton Kek Tarifi
 
 # Malzemeler:
 - 2 adet yumurta
@@ -40,6 +40,7 @@
 - 150 grams of molten chocolate
  
  **Recipe:**
+    
     - Crack the eggs into a medium sized mold and whisk it with sugar.
     
     - Then add the liquid ingredients and whisk it a little more.
@@ -56,7 +57,7 @@
 **Total: 1600 grams - 5700kcal**
 **100 Grams of cake equals 356kcal**
 
-## Vücut Kitle Endeksi
+### Vücut Kitle Endeksi
 
 - Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
 - Babam: 176cm   65kg   VKİ: 21 kg / metrekare (Sağlıklı)
