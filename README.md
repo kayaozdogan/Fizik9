@@ -26,7 +26,7 @@
     
     - Çıkarıp oda sıcaklığında dinlendirdikten sonra üzerine çikolata sosunu gezdirin. Dilimleyerle servis edin.
 
-## Baton Cake Recipe
+# Baton Cake Recipe
 
 ## Ingredients:
 - 2 eggs
@@ -53,11 +53,11 @@
     
     - Rest the cake at room temperature and pour the chocolate sauce. Serve it with slices.
     
-# Calories and Grams:
+## Calories and Grams:
 - **Total: 1600 grams - 5700kcal**
 - **100 Grams of cake equals 356kcal**
 
-### Vücut Kitle İndeksi
+# Vücut Kitle İndeksi
 
 - Annem: 164cm   59kg   VKİ: 21,9 kg / metrekare (Sağlıklı)
 - Babam: 176cm   65kg   VKİ: 21 kg / metrekare (Sağlıklı)
